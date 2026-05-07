@@ -1,16 +1,3 @@
-```
-                                                                                                    
-   ▒██░                                                                                             
-    ░█   ▓▓▒░                                                                                       
-      █      ░░█▓             █░░░░░░░▒▒     ░█▒░░░░░░░██      █░░░░░░░░█       ░▓░░░░░░░░          
-       █        ░▓▒██░        █       ▒▒     ▒▒         █      █        ░█      ░▓                  
-       █        ░▓     ▓█░    █▒▒▒▒▒▒▒▒░     ▒▒         █      █         █       ▒▓▒▒▒▒▒▒▒░         
-       █        ░▓ ░██░       █              ▒▒         █      █         █                █░        
-      ░█      ░░█▒            █          ░░  ░█▒░░░░░░░██  ░   █░░░░░░░░█░   ░  ░▓░░░░░░░▓█░        
-     ▓▒   ░▓▒▒                                                                                      
-    ▓░███                                                                                           
-   ▒░                                                                                               
-```                                                                                              
 # PODS Server
 
 PODS is a multiplayer orbital-combat game inspired by the original *Spacewar!* created by Steve Russell in collaboration with Martin Graetz, Wayne Wiitanen, Bob Saunders, Steve Piner, and others at MIT in the early 1960s.
