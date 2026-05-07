@@ -1,0 +1,90 @@
+# =========================
+# Build Outputs
+# =========================
+bin/
+obj/
+out/
+publish/
+
+# =========================
+# User-specific files
+# =========================
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Rider / IntelliJ
+# =========================
+.idea/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+
+# =========================
+# NuGet
+# =========================
+*.nupkg
+.nuget/
+packages/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment Files
+# =========================
+.env
+.env.*
+
+# =========================
+# Test Results
+# =========================
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# =========================
+# JetBrains Rider caches
+# =========================
+_ReSharper*/
+*.DotSettings.user
+
+# =========================
+# Temporary Files
+# =========================
+tmp/
+temp/
+*.tmp
+
+# =========================
+# Generated Files
+# =========================
+Generated/
+
+# =========================
+# User Files
+# =========================
+config.json
