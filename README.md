@@ -49,7 +49,15 @@ while maintaining a clear distinction between official and unofficial implementa
 
 # What Is This Repository?
 
-This repository contains the authoritative server implementation for PODS, including:
+This repository contains the authoritative server implementation for PODS.
+
+This is the headless server-side project responsible for authoritative simulation, networking, and game state management.
+
+The official PODS client implementation can be found here:
+
+- [pods-client](https://github.com/eldenbrig-games/pods-client?utm_source=chatgpt.com)
+
+This repository includes:
 
 - simulation systems
 - networking
