@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eldenbrig-games/pods-assets/refs/heads/main/images/logos/pods-logo.png" alt="PODS Logo" width="400">
+</p>
+
 # PODS Server
 
 PODS is a multiplayer orbital-combat game inspired by the original *Spacewar!* created by Steve Russell in collaboration with Martin Graetz, Wayne Wiitanen, Bob Saunders, Steve Piner, and others at MIT in the early 1960s.
@@ -42,7 +46,7 @@ This is the headless server-side project responsible for authoritative simulatio
 
 The official PODS client implementation can be found here:
 
-- [pods-client](https://github.com/eldenbrig-games/pods-client?utm_source=chatgpt.com)
+- [pods-client](https://github.com/eldenbrig-games/pods-client)
 
 This repository includes:
 
