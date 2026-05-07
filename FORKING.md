@@ -82,6 +82,43 @@ Please do not present your project as the canonical or official PODS release unl
 
 ---
 
+# Compatibility and Support Expectations
+
+Forks and derivative projects are encouraged to clearly communicate:
+
+- which protocol version they support
+- whether they are compatible with official PODS infrastructure
+- whether gameplay or protocol behavior has changed
+- where users should report bugs or compatibility issues
+
+Where practical, forks should expose:
+
+- project name
+- repository or homepage
+- issue tracker URL
+- compatibility information
+
+within the application UI, launcher, server console output, documentation, or distribution page.
+
+Examples:
+
+Compatible with:
+- PODS Protocol v1.2
+- Official Servers: Yes
+
+Project:
+- DERP Client
+- https://github.com/example/derp-client
+- https://github.com/example/derp-client/issues
+
+Forks are free to modify gameplay systems, networking behavior, physics models, rendering systems, matchmaking, replay formats, or protocol behavior.
+
+However, forks that intentionally diverge from official PODS behavior are encouraged to communicate this clearly to users.
+
+This helps reduce confusion for players and prevents issues relating to unofficial implementations from being incorrectly reported to the official PODS repositories.
+
+---
+
 # Community Philosophy
 
 PODS is intended to support experimentation, creativity, accessibility, and community-driven development.
