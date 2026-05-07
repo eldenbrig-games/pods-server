@@ -85,6 +85,20 @@ For more information, see:
 
 ---
 
+# Generative AI Usage
+
+Some assets within this repository may be partially or fully generated with the assistance of generative AI technologies during early-stage ideation, concept development, placeholder creation, workflow acceleration, or prototyping.
+
+Eldenbrig Games strongly prioritizes human creative direction, iteration, modification, and final implementation. Generative AI is used as a development assistance tool — not as a replacement for artists, musicians, writers, or designers.
+
+Where practical, AI-generated placeholder assets may later be replaced with fully original human-created assets during production.
+
+For full details regarding the studio's approach to ethical AI-assisted development, attribution expectations, and asset usage policies, please see:
+
+- https://github.com/eldenbrig-games/.github/blob/main/profile/GENAI.md
+
+---
+
 # Compatibility and Forking
 
 Independent implementations are encouraged to clearly communicate:
